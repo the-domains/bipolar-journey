@@ -1,0 +1,61 @@
+name: Bipolar Journey
+analytics:
+  google: UA-117503740-1
+github: true
+description: My tale of the ebb and flow of Manic Depressive Syndrome
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f5418c4-5855-47bb-85cc-98856c6f57da.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f5418c4-5855-47bb-85cc-98856c6f57da.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.140055539784953
+color:
+  lightness: 0.6908092595848276
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  saturation: 0.13002402943792382
+  brandStrength: 0.7500804357114436
+  rhythmicContrast: 0.1846987232995915
+content_rating:
+  adult: false
+typography_spectrum: 0.13822292513214052
+opengraph: {}
+title: Bipolar Journey
+url: 'https://davidwmwilson.org'
